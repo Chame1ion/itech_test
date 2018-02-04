@@ -1,0 +1,10 @@
++# Add any directories, files, or patterns you don't want to be tracked by version control
++
++/.idea/
++*.txt
++*.log
++*.xml
++bitrix/cache
+Add a comment to this line
++bitrix/managed_cache
++bitrix/stack_cache
