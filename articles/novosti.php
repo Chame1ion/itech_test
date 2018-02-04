@@ -2,7 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Новости");
 ?><?$APPLICATION->IncludeComponent(
-	"bitrix:news",
+	"my_components:news",
 	"",
 	Array(
 		"ADD_ELEMENT_CHAIN" => "N",
@@ -10,7 +10,7 @@ $APPLICATION->SetTitle("Новости");
 		"AJAX_MODE" => "Y",
 		"AJAX_OPTION_ADDITIONAL" => "",
 		"AJAX_OPTION_HISTORY" => "N",
-		"AJAX_OPTION_JUMP" => "Y",
+		"AJAX_OPTION_JUMP" => "N",
 		"AJAX_OPTION_STYLE" => "Y",
 		"BROWSER_TITLE" => "NAME",
 		"CACHE_FILTER" => "N",

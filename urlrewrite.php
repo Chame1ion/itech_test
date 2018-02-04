@@ -3,14 +3,14 @@ $arUrlRewrite = array(
 	array(
 		"CONDITION" => "#^/articles/#",
 		"RULE" => "",
-		"ID" => "bitrix:news",
-		"PATH" => "/articles/novosti.php",
+		"ID" => "my_components:iblock.element.add.form",
+		"PATH" => "/articlesadd.php",
 	),
 	array(
 		"CONDITION" => "#^/articles/#",
 		"RULE" => "",
-		"ID" => "my_components:iblock.element.add.form",
-		"PATH" => "/articlesadd.php",
+		"ID" => "my_components:news",
+		"PATH" => "/articles/novosti.php",
 	),
 	array(
 		"CONDITION" => "#^/photo/#",
