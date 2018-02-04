@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/js/fileman/html_editor/html-editor.css" => "151776744452118",)); ?>
