@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001517768026';
-$dateexpire = '001553768026';
+$datecreate = '001517773668';
+$dateexpire = '001553773668';
 $ser_content = 'a:2:{s:7:"CONTENT";s:1623:"<noindex>
 	<div class="search-tags-cloud"  style=\'width:100%;\'><a href="/search.php?tags=%D0%91%D0%B5%D1%80%D0%B3%D0%B0%D0%BC%D0%BE" style="font-size: 15px; color: #0082D4;" rel="nofollow">Бергамо</a> <a href="/search.php?tags=%D0%92%D0%B5%D0%BB%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%B3%D0%B8" style="font-size: 15px; color: #0082D4;" rel="nofollow">Велопробеги</a> <a href="/search.php?tags=%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" style="font-size: 15px; color: #0082D4;" rel="nofollow">Испания</a> <a href="/search.php?tags=%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" style="font-size: 15px; color: #0082D4;" rel="nofollow">Италия</a> <a href="/search.php?tags=%D0%9A%D0%B0%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D1%8B" style="font-size: 23px; color: #0082D4;" rel="nofollow">Каникулы</a> <a href="/search.php?tags=%D0%9F%D0%B0%D1%80%D0%BA+%D0%9A%D0%B0%D0%BC%D0%BD%D0%B5%D0%B9" style="font-size: 15px; color: #0082D4;" rel="nofollow">Парк Камней</a> <a href="/search.php?tags=%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F" style="font-size: 40px; color: #0082D4;" rel="nofollow">Путешествия</a> <a href="/search.php?tags=%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4" style="font-size: 23px; color: #0082D4;" rel="nofollow">Таиланд</a> <a href="/search.php?tags=%D0%A4%D0%BE%D1%82%D0%BE" style="font-size: 40px; color: #0082D4;" rel="nofollow">Фото</a> <a href="/search.php?tags=%D0%A5%D1%80%D0%B0%D0%BC+%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D1%8B" style="font-size: 15px; color: #0082D4;" rel="nofollow">Храм истины</a> </div>
 </noindex>
